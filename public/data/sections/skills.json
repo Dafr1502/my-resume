@@ -1,0 +1,217 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-comments",
+                    "fallbackFaIconColor": "#4A90E2",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Communication",
+                            "description": "Clear and empathetic communication — whether it’s presenting findings, collaborating with teams, or simplifying complex data for non-technical audiences.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#4A90E2",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Team Collaboration",
+                            "description": "Thrives in collaborative environments — sharing knowledge, listening actively, and working toward common goals with positivity and respect.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lightbulb",
+                    "fallbackFaIconColor": "#4A90E2",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Problem Solving",
+                            "description": "Approaches challenges with curiosity and creativity — breaking down problems, exploring solutions, and staying calm under pressure.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-clock",
+                    "fallbackFaIconColor": "#4A90E2",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Time Management",
+                            "description": "Balances priorities and meets deadlines — using planning tools, setting clear goals, and adapting quickly when things shift.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Programming Languages"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "SQL", "description": "Proficient in writing complex SQL queries to extract and analyze data."}
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "PHP", "description": "Experienced in building dynamic web apps with PHP."}
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "JavaScript", "description": "Skilled in JavaScript for web applications."}
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "NodeJS", "description": "Building scalable backend services with NodeJS."}
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Tools"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-file-excel",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "Excel", "description": "Advanced data analysis and reporting in Excel."}
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-column",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "Power BI", "description": "Data visualization and business intelligence with Power BI."}
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "Git", "description": "Version control and collaboration using Git."}
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": "#3578e5",
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "Google Colab", "description": "Collaborative Python notebooks for data analysis and machine learning."}
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "HTML", "description": "Markup language for structuring web content."}
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {"title": "CSS", "description": "Styling and layout for web pages."}
+                    }
+                }
+            ]
+        }
+    ]
+}

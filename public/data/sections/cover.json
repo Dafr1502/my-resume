@@ -1,0 +1,34 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "linkedin", "github", "download_resume"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Information Engineering fresh graduate from Pamulang University with a background in <strong>Front-End Development</strong>. While my academic projects centered on creating responsive web interfaces, I have discovered a strong passion for <strong> Data Analytics</strong>. I am currently honing my skills in data processing and visualization, aiming to bridge the gap between technical infrastructure and business intelligence."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I am a lifelong learner, adaptable to new technologies, and ready to contribute as a data-driven professional in the tech industry."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
