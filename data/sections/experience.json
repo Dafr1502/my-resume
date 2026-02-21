@@ -1,0 +1,42 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 2},
+                    "dateEnd": {"year": 2024, "month": 6},
+                    "img": "images/pictures/dicoding.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front-End Web and Back-End (MSIB Intern)",
+                            "description": "Participated in an intensive 5-month development program. Developed end-to-end web applications and collaborated in a team environment to solve technical challenges using industry-standard tools.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed responsive Front-End interfaces using <strong>Web Components</strong> and <strong>JavaScript</strong>.",
+                                    "Built robust Back-End services and RESTful APIs using <strong>Node.js</strong> and <strong>Hapi framework</strong>.",
+                                    "Managed source code and collaborated using <strong>Git</strong> and <strong>GitHub</strong>.",
+                                    "Implemented <strong>automated testing</strong> and debugging to ensure application reliability."
+                                ]
+                            },
+                            "province": "Online",
+                            "country": "Indonesia",
+                            "institution": "Dicoding Indonesia x Kampus Merdeka",
+                            "tags": ["Figma", "Node.js", "JavaScript", "Front-End", "Back-End", "RESTful API"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

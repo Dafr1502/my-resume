@@ -1,0 +1,111 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Data Analytics",
+                    "category_web": "Web Dev",
+                    "category_Web Dev": "Web Dev",
+                    "category_Data Analytics": "Data Analytics"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/logo-tanija.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "Web Dev",
+                    "locales": {
+                        "en": {
+                            "title": "Tanija",
+                            "description": "Berperan sebagai Front-End Developer dalam pengembangan platform e-commerce produk pertanian untuk mendukung ekonomi hijau di Indonesia. Saya bertanggung jawab dalam mentransformasi desain mockup menjadi antarmuka web yang responsif, aksesibel, dan ramah pengguna guna memudahkan petani dalam mengakses kebutuhan pertanian berkualitas.",
+                            "tags": ["web app", "e-commerce"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/IrgiAchmadFahrezi/Tanija?tab=readme-ov-file", "stringKey": "GitHub"},
+                        {"faIcon": "fa-brands fa-youtube", "href": "https://youtu.be/DaiW8sPKp5M?si=8EWlS7Z1T4PjpRsp", "stringKey": "YouTube"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-bowl-food",
+                    "fallbackFaIconColor": null,
+                    "category": "Web Dev",
+                    "locales": {
+                        "en": {
+                            "title": "Kenyang",
+                            "description": "Membangun Kenyang Apps, sebuah platform web interaktif yang dirancang untuk menyederhanakan proses penemuan dan pemesanan makanan bagi pengguna. Berfokus pada pengembangan antarmuka yang responsif dan intuitif guna memastikan navigasi menu yang mulus, memberikan pengalaman pengguna yang memuaskan dari pemilihan hingga tahap akhir pemesanan.",
+                            "tags": ["web app", "food"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Dafr1502/kenyang-apps", "stringKey": "GitHub"}
+                    ]
+                },
+                                {
+                    "id": 2,
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-dumbbell mr-2",
+                    "fallbackFaIconColor": null,
+                    "category": "Web Dev",
+                    "locales": {
+                        "en": {
+                            "title": "SPK Olahraga",
+                            "description": "Mengembangkan Sistem Pendukung Keputusan (SPK) berbasis web yang dirancang untuk memberikan rekomendasi olahraga personal bagi pemula guna meminimalkan risiko cedera. Saya membangun sistem ini menggunakan PHP (Native), MySQL, dan Bootstrap 5, serta mengintegrasikan metode Fuzzy Logic Takagi-Sugeno untuk mengolah variabel subjektif seperti tingkat kebugaran dan kondisi kesehatan menjadi skor rekomendasi yang akurat dan aman.",
+                            "tags": ["web app", "SPK", "health"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Dafr1502/SPK-Olahraga", "stringKey": "GitHub"}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-table",
+                    "fallbackFaIconColor": "#217346",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Analisis Sistem Performa Akademik Siswa",
+                            "description": "Melakukan analisis mendalam terhadap lebih dari +6.000 data siswa untuk mengidentifikasi variabel kunci yang memengaruhi keberhasilan akademik. Menggunakan pendekatan statistik untuk membongkar korelasi antara kebiasaan belajar, motivasi internal, dan faktor sosial-ekonomi, yang menghasilkan rekomendasi strategis seperti standardisasi pelatihan guru dan intervensi fasilitas digital bagi siswa prasejahtera.",
+                            "tags": ["data", "academic", "school"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-solid fa-file-excel", "href": "https://docs.google.com/spreadsheets/d/1F0W6_2hKfipy1gwxeAawyZp3GssyUejD/edit?usp=sharing&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "Excel"},
+                        {"faIcon": "fa-solid fa-file-powerpoint", "href": "https://drive.google.com/file/d/1HV5hcFPW1N88yhBaxqgYFY_QjJhqzBE2/view?usp=sharing", "stringKey": "PPT"}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-cart-shopping",
+                    "fallbackFaIconColor": "#217346",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Analisa Sistem Manajemen Penjualan Sembako",
+                            "description": "Membangun sistem pelaporan penjualan sembako otomatis menggunakan Microsoft Excel sebagai bagian dari Intensive Bootcamp KarirNex. Proyek ini mencakup pembersihan data (cleaning), implementasi Data Validation untuk entri data yang akurat, serta penggunaan Pivot Table dan kompleks formula untuk menghasilkan laporan status transaksi dan ringkasan pendapatan yang terstruktur.",
+                            "tags": ["data", "management", "excel"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-solid fa-file-excel", "href": "https://docs.google.com/spreadsheets/d/1OciFpQXBmjETF5V0RLr6TeFcXlG2VRDG/edit?usp=sharing&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "Excel"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

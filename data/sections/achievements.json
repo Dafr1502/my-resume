@@ -1,0 +1,142 @@
+{
+    "articles": [
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Certifications" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": { "year": 2024, "month": 5 },
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front-End Web and Back-End Program (SIB Dicoding x Kampus Merdeka)",
+                            "description": "Successfully completed an intensive 5-month Full-Stack development program. Proficient in building responsive Front-End applications using Web Components and developing scalable Back-End services using Node.js and Hapi framework.",
+                            "institution": "Dicoding Indonesia"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1UIhwqRgxzDe6Bsxh0c8-u0RlkbxdpKP9/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2026, "month": 0 },
+                    "fallbackFaIcon": "fa-solid fa-chart-pie",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Intro to Data Analystics",
+                            "description": "Completed a certified intensive course on Data Analytics fundamentals. Gained insights into data processing and analytical thinking to support data-driven decision-making in software development.",
+                            "institution": "RevoU"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1teKrEoQJRsxapZ1EKk08vLaf1ULOU6-1/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2026, "month": 1 },
+                    "fallbackFaIcon": "fa-solid fa-file-excel",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Intensive Bootcamp - Microsoft Excel",
+                            "description": "Achieved Intermediate level in a 2-week intensive program. Competent in advanced formulas, data validation, pivot tables, and basic VBA macros for efficient data management.",
+                            "institution": "KarirNex by PT Ebiz Karisma Internasional"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1QL_BCl_-AP6JDyltMpIkehd8y77bUljo/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "dateStart": { "year": 2026, "month": 1 },
+                    "fallbackFaIcon": "fa-solid fa-magnifying-glass-chart",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Analyst Intensive Camp",
+                            "description": "Completed a 28-hour intensive program with an 'Excellent' grade. Proficient in Exploratory Data Analysis (EDA), data cleaning, and data visualization using Tableau and Excel to support business decision-making.",
+                            "institution": "Special Skill Indonesia"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1OoEhLhWyDK_fj6A58QkVPHjYazxsW5qX/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "dateStart": { "year": 2025, "month": 6 },
+                    "fallbackFaIcon": "fa-solid fa-user-check",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programmer",
+                            "description": "Certified Professional Programmer by BNSP. Competent in Object-Oriented Programming (OOP), Structured Programming, Database Access, and Unit Testing according to national standards",
+                            "institution": "LSP Universitas Pamulang - BNSP"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1BaKW0nhfi7G5QGsp73m7rd4YqBCVx1tC/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disabled_articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": { "year": 2018, "month": 8 },
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Best Graduation Project",
+                            "description": "Outstanding work on graduation project; recognized for innovation and impact.",
+                            "institution": "Harvard University"
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2019, "month": 9 },
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "2nd Place – Alumni UX Hackathon",
+                            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving.",
+                            "institution": "Harvard University"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://harvard.com", "stringKey": "view_more_info" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

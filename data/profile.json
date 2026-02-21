@@ -1,0 +1,79 @@
+{
+    "name": "Danu Febrianto",
+    "profilePictureUrl": "images/pictures/pfp.jpg",
+    "locales": {
+        "en": {
+            "credits": " ",
+            "role": "Aspiring Data Analyst"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Jl. Sirnagalih III Kav. A, Cinangka, Kec. Sawangan",
+                    "valueShort": "Grand Osaka 4 - Depok, Jawa Barat"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "febrianto370@gmail.com",
+            "valueShort": "febrianto370@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "",
+            "copy": true
+        },
+        {
+            "id": "facebook",
+            "value": "Danu Febrianto",
+            "valueShort": "Danu Febrianto",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/profile.php?id=100009004122047",
+            "copy": false
+        },
+        {
+            "id": "github",
+            "value": "@Dafr1502",
+            "valueShort": "Danu Febrianto",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/Dafr1502",
+            "copy": false
+        },
+        {
+            "id": "instagram",
+            "value": "@danufbrnt",
+            "valueShort": "Danu Febrianto",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/danufbrnt",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "Danu Febrianto",
+            "valueShort": "Danu Febrianto",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/danu-febrianto/",
+            "copy": false
+        },
+        {
+            "id": "phone",
+            "value": "+62 899-5892-389",
+            "valueShort": "+62 899-5892-389",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "",
+            "copy": true
+        },
+        {
+            "id": "download_resume",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-solid fa-file-pdf",
+            "href": "/pdf/resume.pdf",
+            "copy": false
+        }
+    ]
+}
