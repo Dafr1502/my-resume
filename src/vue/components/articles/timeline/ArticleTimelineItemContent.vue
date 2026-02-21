@@ -14,6 +14,7 @@
                             :value="dateString"/>
             </div>
         </div>
+        <ArticleWidgetLinkList v-if="links && links.length" :links="links" class="mt-2 text-3"/>
 
         <div class="timeline-item-content-body">
             <p class="text-4 text-default description m-0"
@@ -52,8 +53,10 @@ const props = defineProps({
     institution: String,
     description: String,
     list: Object|null,
-    tags: Object|String
+    tags: Object|String,
+    links: Array
 })
+import ArticleWidgetLinkList from "/src/vue/components/articles/base/ArticleWidgetLinkList.vue"
 
 /** @type {{value: Boolean}} */
 const isScreenXlOrLarger = inject("isScreenXlOrLarger")

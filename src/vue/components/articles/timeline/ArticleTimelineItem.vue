@@ -9,15 +9,16 @@
                   :transparency="!item"/>
 
         <ArticleTimelineItemContent v-if="item"
-                                    :title="localize(item.locales, 'title')"
-                                    :formatted-date-start="localizeDate(props.item.dateStart)"
-                                    :formatted-date-end="localizeDate(props.item.dateEnd)"
-                                    :province="localize(item.locales, 'province', true)"
-                                    :country="localize(item.locales, 'country', true)"
-                                    :institution="localize(item.locales, 'institution')"
-                                    :description="localize(item.locales, 'description')"
-                                    :list="localize(item.locales, 'list', true)"
-                                    :tags="localize(props.item.locales, 'tags')"/>
+                        :title="localize(item.locales, 'title')"
+                        :formatted-date-start="localizeDate(props.item.dateStart)"
+                        :formatted-date-end="localizeDate(props.item.dateEnd)"
+                        :province="localize(item.locales, 'province', true)"
+                        :country="localize(item.locales, 'country', true)"
+                        :institution="localize(item.locales, 'institution')"
+                        :description="localize(item.locales, 'description')"
+                        :list="localize(item.locales, 'list', true)"
+                        :tags="localize(props.item.locales, 'tags')"
+                        :links="item.links"/>
     </li>
 </template>
 
