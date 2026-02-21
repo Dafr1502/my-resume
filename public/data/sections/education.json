@@ -30,7 +30,10 @@
                             "institution": "Pamulang University",
                             "tags": []
                         }
-                    }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1ADRTxJNSSQKfJHWopZCy9aGZzBY9DgPP/view?usp=sharing", "stringKey": "view_transcripts" }
+                    ]
                 }
             ]
         },
