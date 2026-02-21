@@ -14,11 +14,12 @@
                             :value="dateString"/>
             </div>
         </div>
-        <ArticleWidgetLinkList v-if="links && links.length" :links="links" class="mt-2 text-3"/>
 
         <div class="timeline-item-content-body">
-            <p class="text-4 text-default description m-0"
-               v-html="description"/>
+
+                <p class="text-4 text-default description m-0"
+                    v-html="description"/>
+                <ArticleWidgetLinkList v-if="links && links.length" :links="links" class="mt-2 text-3"/>
 
             <p v-if="list && list.title"
                class="text-4 text-default list-title m-0 mt-2"

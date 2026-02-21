@@ -29,7 +29,8 @@
             "view_more_info": "View More Info",
             "view_on_app_store": "App Store",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_windows_store": "Windows Store",
+            "view_transcripts": "View Transcript"
         }
     }
 }
