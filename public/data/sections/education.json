@@ -65,7 +65,7 @@
                             "province": "Online",
                             "country": "Indonesia",
                             "institution": "KarirNex by PT Ebiz Karisma Internasional",
-                            "tags": ["Excel", "SQL", "Python", "Power BI", "Data Visualization"]
+                            "tags": []
                         }
                     }
                 },
@@ -83,7 +83,7 @@
                             "province": "Online",
                             "country": "International",
                             "institution": "DataCamp",
-                            "tags": ["SQL", "Data Analysis", "Relational Databases"]
+                            "tags": []
                         }
                     }
                 },
