@@ -52,6 +52,42 @@
             },
             "items": [
                 {
+                    "id": 6,
+                    "dateStart": {"year": 2026, "month": 2},
+                    "dateEnd": {"year": 2026, "month": 2},
+                    "img": "images/pictures/karirnex.png",
+                    "fallbackFaIcon": "fa-solid fa-chart-pie",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bootcamp Data Analyst: Excel, SQL, Python & Power BI",
+                            "description": "Graduated with an 'Expert' predicate in a 15-hour intensive program. Mastered end-to-end data analysis workflows including data collection, cleansing, and advanced visualization. Developed a mini-project to provide data-driven insights using Excel, SQL, Python, and Power BI.",
+                            "province": "Online",
+                            "country": "Indonesia",
+                            "institution": "KarirNex by PT Ebiz Karisma Internasional",
+                            "tags": ["Excel", "SQL", "Python", "Power BI", "Data Visualization"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2026, "month": 1},
+                    "dateEnd": {"year": 2026, "month": 1},
+                    "img": "images/pictures/datacamp.jpg",
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#05192d",
+                    "locales": {
+                        "en": {
+                            "title": "Intermediate SQL",
+                            "description": "Completed an intensive course focusing on complex SQL queries. Mastered skills in joining tables, filtering data, using aggregate functions, and subqueries to extract meaningful insights from relational databases.",
+                            "province": "Online",
+                            "country": "International",
+                            "institution": "DataCamp",
+                            "tags": ["SQL", "Data Analysis", "Relational Databases"]
+                        }
+                    }
+                },
+                {
                     "id": 4,
                     "dateStart": {"year": 2026, "month": 1},
                     "dateEnd": {"year": 2026, "month": 1},

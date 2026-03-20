@@ -77,6 +77,38 @@
                 },
                 {
                     "id": 5,
+                    "dateStart": { "year": 2026, "month": 1 },
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Intermediate SQL",
+                            "description": "Successfully completed the Intermediate SQL course, mastering complex queries, data filtering, and table joins. Proficient in using aggregate functions and subqueries to extract and analyze data from relational databases.",
+                            "institution": "DataCamp"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1ZUZvJmN-BuyEGaX0JZVm2LTtBM-LOiId/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "dateStart": { "year": 2026, "month": 2 },
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bootcamp Data Analyst: Excel, SQL, Python & Power BI",
+                            "description": "Achieved 'Expert' level in an intensive bootcamp. Competent in the full data analysis lifecycle, including data collection, cleansing, and visualization using Python and Power BI to deliver actionable insights.",
+                            "institution": "KarirNex by PT Ebiz Karisma Internasional"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://drive.google.com/file/d/1-qlVOd8weLFOP7l5lUj6K4qGHXXdIE2R/view?usp=sharing", "stringKey": "view_certification" }
+                    ]
+                },
+                {
+                    "id": 7,
                     "dateStart": { "year": 2025, "month": 6 },
                     "fallbackFaIcon": "fa-solid fa-user-check",
                     "fallbackFaIconColor": null,
