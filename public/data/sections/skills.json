@@ -126,11 +126,11 @@
                 {
                     "id": 4,
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIcon": "fa-brands fa-python",
                     "fallbackFaIconColor": "#3578e5",
                     "percentage": null,
                     "locales": {
-                        "en": {"title": "NodeJS", "description": "Building scalable backend services with NodeJS."}
+                        "en": {"title": "Python", "description": "Building scalable applications and data analysis with Python."}
                     }
                 }
             ]
