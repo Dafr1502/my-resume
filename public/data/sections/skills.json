@@ -174,11 +174,11 @@
                 {
                     "id": 3,
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIcon": "fa-brands fa-github",
                     "fallbackFaIconColor": "#3578e5",
                     "percentage": null,
                     "locales": {
-                        "en": {"title": "Git", "description": "Version control and collaboration using Git."}
+                        "en": {"title": "GitHub", "description": "Version control and collaborative development using GitHub."}
                     }
                 },
                 {
@@ -194,21 +194,21 @@
                 {
                     "id": 5,
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
-                        "en": {"title": "HTML", "description": "Markup language for structuring web content."}
+                        "en": {"title": "Google Looker Studio / Data Studio", "description": "Creating interactive dashboards and reporting with Looker Studio."}
                     }
                 },
                 {
                     "id": 6,
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
-                        "en": {"title": "CSS", "description": "Styling and layout for web pages."}
+                        "en": {"title": "Google BigQuery", "description": "Querying and analyzing large-scale datasets with BigQuery."}
                     }
                 }
             ]
