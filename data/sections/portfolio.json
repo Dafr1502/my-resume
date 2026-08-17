@@ -75,7 +75,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-table",
                     "fallbackFaIconColor": "#217346",
-                    "category": "productivity",
+                    "category": "Data Analytics",
                     "locales": {
                         "en": {
                             "title": "Analisis Sistem Performa Akademik Siswa",
@@ -84,7 +84,9 @@
                         }
                     },
                     "links": [
-                        {"faIcon": "fa-solid fa-file-excel", "href": "https://docs.google.com/spreadsheets/d/1F0W6_2hKfipy1gwxeAawyZp3GssyUejD/edit?usp=sharing&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "Excel"},
+                        {"faIcon": "fa-brands fa-github",
+                        "href": "https://github.com/Dafr1502/student-academic-performance-analysis",
+                        "stringKey": "GitHub"},
                         {"faIcon": "fa-solid fa-file-powerpoint", "href": "https://drive.google.com/file/d/1HV5hcFPW1N88yhBaxqgYFY_QjJhqzBE2/view?usp=sharing", "stringKey": "PPT"}
                     ]
                 },
@@ -93,7 +95,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-cart-shopping",
                     "fallbackFaIconColor": "#217346",
-                    "category": "productivity",
+                    "category": "Data Analytics",
                     "locales": {
                         "en": {
                             "title": "Analisa Sistem Manajemen Penjualan Sembako",
@@ -102,7 +104,9 @@
                         }
                     },
                     "links": [
-                        {"faIcon": "fa-solid fa-file-excel", "href": "https://docs.google.com/spreadsheets/d/1OciFpQXBmjETF5V0RLr6TeFcXlG2VRDG/edit?usp=sharing&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "Excel"}
+                        {"faIcon": "fa-brands fa-github",
+                        "href": "https://github.com/Dafr1502/analisa-sistem-manajemen-penjualan-sembako",
+                        "stringKey": "GitHub"}
                     ]
                 },
                 {
@@ -113,13 +117,16 @@
                     "category": "Data Analytics",
                     "locales": {
                         "en": {
-                            "title": "Data Analyst Portfolio: Business Insights with Power BI",
-                            "description": "Sebagai bagian dari Bootcamp Data Analyst di KarirNex, saya mengembangkan dashboard interaktif menggunakan Power BI untuk mentransformasi data mentah menjadi wawasan bisnis yang strategis. Proyek ini mencakup pembersihan data, dan pembuatan visualisasi yang memudahkan pemangku kepentingan dalam memahami tren performa dan metrik utama secara real-time.",
-                            "tags": ["Power BI", "Data Visualization", "Business Intelligence"]
+                            "title": "Business Insights with Power BI",
+                            "description": "Proyek Power BI end-to-end yang berfokus pada pembersihan data mentah (handling uppercase/lowercase, trim space, duplikat, dan kuantitas anomali -99) menggunakan Power Query, pembuatan kolom kustom, serta penyajian dashboard interaktif untuk pemantauan performa penjualan secara real-time.",
+                            "tags": ["Power BI", "Power Query", "Data Cleaning", "Data Visualization"]
                         }
                     },
                     "links": [
-                        { "faIcon": "fa-solid fa-file-powerpoint", "href": "https://drive.google.com/file/d/1iJS2x34Qsl5WKwJG1WN5RN-bTjg_dGc7/view?usp=sharing", "stringKey": "Power BI" }
+                        { "faIcon": "fa-brands fa-github",
+                        "href": "https://github.com/Dafr1502/power-bi-business-insights",
+                        "stringKey": "GitHub" },
+                        {"faIcon": "fa-solid fa-file-powerpoint", "href": "https://docs.google.com/presentation/d/1f5xGQb-6pyOouscq-_T6uAxTaRnZaMHG/edit?usp=drive_link&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "PPT"}
                     ]
                 }
             ]
