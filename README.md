@@ -1,7 +1,7 @@
 ```markdown
 # 💼 Personal Portfolio & Web Resume
 
-A modern, responsive, and interactive personal portfolio & online resume website built with **Vue.js**, **Vite**, and **EmailJS**.
+A modern, responsive, and interactive personal portfolio & online resume website built with Vue.js, Vite, and EmailJS.
 
 This web portfolio showcases my background, data analytics projects, technical skills, and direct contact integration.
 
@@ -9,28 +9,28 @@ This web portfolio showcases my background, data analytics projects, technical s
 
 ## ✨ Key Features & Modifications
 
-* **Interactive Contact Form:** Integrated with EmailJS API for real-time message delivery directly to my email.
-* **Custom Project Showcase:** Tailored content structure for displaying Data Analytics projects, GitHub repositories, and live demos.
-* **Localized Content:** Multi-language support structure via JSON configuration files.
-* **Fully Responsive:** Optimized layout for desktop, tablet, and mobile screens.
+* Interactive Contact Form: Integrated with EmailJS API for real-time message delivery directly to my email.
+* Custom Project Showcase: Tailored content structure for displaying Data Analytics projects, GitHub repositories, and live demos.
+* Localized Content: Multi-language support structure via JSON configuration files.
+* Fully Responsive: Optimized layout for desktop, tablet, and mobile screens.
 
 ---
 
 ## ⚙️ Tech Stack & Tools
 
-* **Frontend Framework:** Vue.js
-* **Build Tool:** Vite
-* **Styling:** SCSS / CSS3
-* **Email Service:** EmailJS API
-* **Deployment:** GitHub Pages / Vercel
+* Frontend Framework: Vue.js
+* Build Tool: Vite
+* Styling: SCSS / CSS3
+* Email Service: EmailJS API
+* Deployment: GitHub Pages / Vercel
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-* **Node.js** (v16 or higher)
-* **npm** or **yarn**
+* Node.js (v16 or higher)
+* npm or yarn
 
 ### Installation
 
