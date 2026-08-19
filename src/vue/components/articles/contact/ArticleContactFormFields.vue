@@ -145,6 +145,7 @@ textarea {
     height: 100%;
     flex-grow: 1;
     min-height: 200px;
+    resize: none;
     border-radius: $default-border-radius;
     @include media-breakpoint-down(sm) {
         min-height: 150px;
