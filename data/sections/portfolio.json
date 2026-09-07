@@ -26,8 +26,8 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "Tanija",
-                            "description": "Berperan sebagai Front-End Developer dalam pengembangan platform e-commerce produk pertanian untuk mendukung ekonomi hijau di Indonesia. Saya bertanggung jawab dalam mentransformasi desain mockup menjadi antarmuka web yang responsif, aksesibel, dan ramah pengguna guna memudahkan petani dalam mengakses kebutuhan pertanian berkualitas.",
+                            "title": "Tanija (Agricultural E-Commerce Platform)",
+                            "description": "Acted as a Front-End Developer in creating an agricultural e-commerce platform aimed at supporting Indonesia's green economy. Responsible for transforming design mockups into a responsive, accessible, and user-friendly web interface to help farmers easily access high-quality agricultural supplies.",
                             "tags": ["web app", "e-commerce"]
                         }
                     },
@@ -44,8 +44,8 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "Kenyang",
-                            "description": "Membangun Kenyang Apps, sebuah platform web interaktif yang dirancang untuk menyederhanakan proses penemuan dan pemesanan makanan bagi pengguna. Berfokus pada pengembangan antarmuka yang responsif dan intuitif guna memastikan navigasi menu yang mulus, memberikan pengalaman pengguna yang memuaskan dari pemilihan hingga tahap akhir pemesanan.",
+                            "title": "Kenyang (Interactive Food Discovery & Ordering Web Platform)",
+                            "description": "Built Kenyang Apps, an interactive web platform designed to simplify the food discovery and ordering process for users. Focused on developing a responsive and intuitive interface to ensure seamless menu navigation, delivering a highly satisfying user experience.",
                             "tags": ["web app", "food"]
                         }
                     },
@@ -61,8 +61,8 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "SPK Olahraga",
-                            "description": "Mengembangkan Sistem Pendukung Keputusan (SPK) berbasis web yang dirancang untuk memberikan rekomendasi olahraga personal bagi pemula guna meminimalkan risiko cedera. Saya membangun sistem ini menggunakan PHP (Native), MySQL, dan Bootstrap 5, serta mengintegrasikan metode Fuzzy Logic Takagi-Sugeno untuk mengolah variabel subjektif seperti tingkat kebugaran dan kondisi kesehatan menjadi skor rekomendasi yang akurat dan aman.",
+                            "title": "SPK Olahraga (Web-Based Decision Support System for Workout Recommendations)",
+                            "description": "Developed a web-based Decision Support System (DSS) designed to provide personalized workout recommendations for beginners to minimize injury risks. Built the system using PHP (Native), MySQL, and Bootstrap 5, integrating the Takagi-Sugeno Fuzzy Logic method to process subjective variables—such as fitness levels and health conditions—into accurate and safe recommendation scores.",
                             "tags": ["web app", "SPK", "health"]
                         }
                     },
@@ -78,8 +78,8 @@
                     "category": "Data Analytics",
                     "locales": {
                         "en": {
-                            "title": "Analisis Sistem Performa Akademik Siswa",
-                            "description": "Melakukan analisis mendalam terhadap lebih dari +6.000 data siswa untuk mengidentifikasi variabel kunci yang memengaruhi keberhasilan akademik. Menggunakan pendekatan statistik untuk membongkar korelasi antara kebiasaan belajar, motivasi internal, dan faktor sosial-ekonomi, yang menghasilkan rekomendasi strategis seperti standardisasi pelatihan guru dan intervensi fasilitas digital bagi siswa prasejahtera.",
+                            "title": "Academic Success Factors Analysis",
+                            "description": "Conducted an in-depth analysis of over 6,000+ student data records to identify key variables influencing academic success. Utilized statistical approaches to uncover correlations between study habits, internal motivation, and socioeconomic factors, resulting in strategic recommendations such as standardized teacher training and digital facility interventions for underprivileged students.",
                             "tags": ["data", "academic", "school"]
                         }
                     },
@@ -98,8 +98,8 @@
                     "category": "Data Analytics",
                     "locales": {
                         "en": {
-                            "title": "Analisa Sistem Manajemen Penjualan Sembako",
-                            "description": "Membangun sistem pelaporan penjualan sembako otomatis menggunakan Microsoft Excel sebagai bagian dari Intensive Bootcamp KarirNex. Proyek ini mencakup pembersihan data (cleaning), implementasi Data Validation untuk entri data yang akurat, serta penggunaan Pivot Table dan kompleks formula untuk menghasilkan laporan status transaksi dan ringkasan pendapatan yang terstruktur.",
+                            "title": "Automated Sales Reporting System for Grocery Store",
+                            "description": "Built an automated grocery sales reporting system using Microsoft Excel as part of the KarirNex Intensive Bootcamp. The project involved rigorous data cleaning, implementing Data Validation to ensure accurate data entry, and utilizing Pivot Tables alongside complex formulas to generate structured transaction status reports and revenue summaries.",
                             "tags": ["data", "management", "excel"]
                         }
                     },
@@ -118,7 +118,7 @@
                     "locales": {
                         "en": {
                             "title": "Business Insights with Power BI",
-                            "description": "Proyek Power BI end-to-end yang berfokus pada pembersihan data mentah (handling uppercase/lowercase, trim space, duplikat, dan kuantitas anomali -99) menggunakan Power Query, pembuatan kolom kustom, serta penyajian dashboard interaktif untuk pemantauan performa penjualan secara real-time.",
+                            "description": "Developed an end-to-end Power BI project focused on cleaning raw data using Power Query, which included handling case inconsistencies (uppercase/lowercase), trimming whitespace, removing duplicates, and managing anomaly quantities (such as -99 values). Created custom columns and designed an interactive dashboard for real-time sales performance monitoring.",
                             "tags": ["Power BI", "Power Query", "Data Cleaning", "Data Visualization"]
                         }
                     },
@@ -126,7 +126,7 @@
                         { "faIcon": "fa-brands fa-github",
                         "href": "https://github.com/Dafr1502/power-bi-business-insights",
                         "stringKey": "GitHub" },
-                        {"faIcon": "fa-solid fa-file-powerpoint", "href": "https://docs.google.com/presentation/d/1f5xGQb-6pyOouscq-_T6uAxTaRnZaMHG/edit?usp=drive_link&ouid=108649722971187839585&rtpof=true&sd=true", "stringKey": "PPT"}
+                        {"faIcon": "fa-solid fa-file-powerpoint", "href": "https://drive.google.com/file/d/1iExRlr7uIgk9unybq1kuhoIUvEm4jRje/view?usp=drive_link", "stringKey": "PPT"}
                     ]
                 }
             ]
