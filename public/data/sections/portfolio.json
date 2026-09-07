@@ -26,7 +26,7 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "Tanija (Agricultural E-Commerce Platform)",
+                            "title": "Tanija",
                             "description": "Acted as a Front-End Developer in creating an agricultural e-commerce platform aimed at supporting Indonesia's green economy. Responsible for transforming design mockups into a responsive, accessible, and user-friendly web interface to help farmers easily access high-quality agricultural supplies.",
                             "tags": ["web app", "e-commerce"]
                         }
@@ -44,7 +44,7 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "Kenyang (Interactive Food Discovery & Ordering Web Platform)",
+                            "title": "Kenyang",
                             "description": "Built Kenyang Apps, an interactive web platform designed to simplify the food discovery and ordering process for users. Focused on developing a responsive and intuitive interface to ensure seamless menu navigation, delivering a highly satisfying user experience.",
                             "tags": ["web app", "food"]
                         }
@@ -61,7 +61,7 @@
                     "category": "Web Dev",
                     "locales": {
                         "en": {
-                            "title": "SPK Olahraga (Web-Based Decision Support System for Workout Recommendations)",
+                            "title": "SPK Olahraga",
                             "description": "Developed a web-based Decision Support System (DSS) designed to provide personalized workout recommendations for beginners to minimize injury risks. Built the system using PHP (Native), MySQL, and Bootstrap 5, integrating the Takagi-Sugeno Fuzzy Logic method to process subjective variables—such as fitness levels and health conditions—into accurate and safe recommendation scores.",
                             "tags": ["web app", "SPK", "health"]
                         }
@@ -98,7 +98,7 @@
                     "category": "Data Analytics",
                     "locales": {
                         "en": {
-                            "title": "Automated Sales Reporting System for Grocery Store",
+                            "title": "Automated Sales Reporting System",
                             "description": "Built an automated grocery sales reporting system using Microsoft Excel as part of the KarirNex Intensive Bootcamp. The project involved rigorous data cleaning, implementing Data Validation to ensure accurate data entry, and utilizing Pivot Tables alongside complex formulas to generate structured transaction status reports and revenue summaries.",
                             "tags": ["data", "management", "excel"]
                         }
